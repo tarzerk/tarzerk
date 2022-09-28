@@ -23,4 +23,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tarzerk&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.tarzerk)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.tarzerk)
