@@ -18,7 +18,7 @@
 
 ## 🎓💼 Experience 
 #### Incoming Software Engineer | JPMorgan & Chase Co. | Fall 2023 <br>
-#### Project Manager | Assoication of Computing Machinery UT Dallas - Projects | May 2021 - Fall 2022
+#### Project Manager | Associtation of Computing Machinery UT Dallas - Projects | May 2021 - Fall 2022
 - Led students to develop their first full-stack mobile and web applications.
 - Wrote feasibility reports and create 10-week development plans for upcoming ACM Projects.
 - Cooperated with officers to teach workshops on topics such as version control, coding interview preparation, APIs, databases, etc.
