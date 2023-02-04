@@ -16,17 +16,18 @@
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Work Experience & Extracurricular Experience
+## Experience
 #### Incoming Software Engineer at JPMorgan & Chase Co. - Fall 2023 <br>
+#### Project Manager at ACM UT Dallas - May 2021 - Fall 2022
+- Led students to develop their first full-stack mobile and web applications.
+- Wrote feasibility reports and create 10-week development plans for upcoming ACM Projects.
+- Cooperated with officers to teach workshops on topics such as version control, coding interview preparation, APIs, databases, etc.
 #### Software Engineering Intern at JPMorgan & Chase Co. - June 2022 - August 2022
 - Implemented first-time firmwide approach of user interaction data analytics throughout the Android version Chase Payment mobile application.
 - Reduced code complexity by breaking down legacy code into modular components.
 - Incorporated over 150 action analytical tags in 21 application screens throughout 18 files within the codebase.
 - Used the DataWatch tool test and certify API tag events to Adobe Analytics.
-#### Project Manager at ACM UT Dallas - May 2021 - Fall 2022
-- Led students to develop their first full-stack mobile and web applications.
-- Wrote feasibility reports and create 10-week development plans for upcoming ACM Projects.
-- Cooperated with officers to teach workshops on topics such as version control, coding interview preparation, APIs, databases, etc.
+
 
 ## 📈 GitHub Stats
 
