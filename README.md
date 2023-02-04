@@ -23,7 +23,7 @@
 - Reduced code complexity by breaking down legacy code into modular components.
 - Incorporated over 150 action analytical tags in 21 application screens throughout 18 files within the codebase.
 - Used the DataWatch tool test and certify API tag events to Adobe Analytics.
-#### Project Manager at ACM UT Dallas - Fall 2023 - Summer 2022 
+#### Project Manager at ACM UT Dallas - May 2021 - Fall 2022
 - Led students to develop their first full-stack mobile and web applications.
 - Wrote feasibility reports and create 10-week development plans for upcoming ACM Projects.
 - Cooperated with officers to teach workshops on topics such as version control, coding interview preparation, APIs, databases, etc.
