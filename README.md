@@ -16,6 +16,14 @@
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+## Experience
+Incoming Analyst Software Engineer at JPMorgan & Chase Co. - Fall 2023 <br>
+Software Engineering Intern at JPMorgan & Chase Co. - Summer 2022 
+- Implemented first-time firmwide approach of user interaction data analytics throughout the Android version Chase Payment mobile application.
+- Reduced code complexity by breaking down legacy code into modular components.
+- Incorporated over 150 action analytical tags in 21 application screens throughout 18 files within the codebase.
+- Used the DataWatch tool test and certify API tag events to Adobe Analytics.
+
 ## 📈 GitHub Stats
 
 <a href="http://www.github.com/tarzerk"><img src="https://github-readme-stats.vercel.app/api?username=tarzerk&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Erik's GitHub stats" /></a>
