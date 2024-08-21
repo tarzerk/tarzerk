@@ -1,6 +1,6 @@
 # Hello there, I am Erik 👋
 
-### I am a 4th year Software Engineering Student studying in The University of Texas at Dallas. 
+### I am a Software Engineer at JPMorgan Chase & Co. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🎓💼 Experience 
-#### Incoming Software Engineer | JPMorgan & Chase Co. | Fall 2023 <br>
+#### Software Engineer I | JPMorgan & Chase Co. | Fall 2023 <br>
 #### Project Manager | Associtation of Computing Machinery UT Dallas - Projects | May 2021 - Fall 2022
 - Led students to develop their first full-stack mobile and web applications.
 - Wrote feasibility reports and create 10-week development plans for upcoming development projects.
